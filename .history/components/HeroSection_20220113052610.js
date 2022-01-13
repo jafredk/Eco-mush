@@ -9,7 +9,7 @@ function HeroSection() {
 			<Image className="position:fixed " src="https://ats.org/wp-content/uploads/2021/03/Impact-Musrooms-1160x700.jpg" width={1200} height={300} />
 			</div>
 
-			
+			<
 		</div>
 	);
 }
